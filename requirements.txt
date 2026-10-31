@@ -1,7 +1,0 @@
-aiogram>=3.7
-aiohttp
-pdf2docx
-python-docx
-PyMuPDF
-Pillow
-pytesseract
